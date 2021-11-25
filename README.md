@@ -1,7 +1,7 @@
 # ERC-20 Token
 
 Small ERC-20 token project written in Solidity that I did during a Blockchain course.
-This was helpfull for me to adquire the main concepts of how a ERC-20 token works.
+This was helpful for me to adquire the main concepts of how a ERC-20 token works.
 
 ## Disclaimer
 
